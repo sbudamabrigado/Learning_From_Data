@@ -1,9 +1,9 @@
-|:----------------------------------------------------|:--------------:|
-|The visual aesthetics of the Notebook \(Markdown and Graphs\)|30%|
-|Complexity of the data \(cleaning it, missing values, ….\)|10%|
-|Usage of descriptive statistics|30%|
-|Coverage of some descriptive statistics not covered in class|10%|
-|Use of Github \(Show the github link\)|10%|
-|Reflections on your learnings between this assignment and the previous one. What was different between Python and Excel? When will you use either of them?  If you could do this assignment over what would you do differently? What are the gaps in your programming or stats knowledge? \(350 words\)|10%|
-|||
-|Total|100%|
+The attached image(assignment_3.JPG) is an image of how the assignment was structured.
+
+The folder 219023701 contains the Jupyter source file and the dataset which was used to complete the assignment. The dataset used for the assignment can be found and downloaded using the below link:
+
+* [kaggle](https://www.kaggle.com/datasets/rajugc/imdb-movies-dataset-based-on-genre)
+
+To be more specific the action genre was used as the dataset from the available datasets in the provided link.
+
+
